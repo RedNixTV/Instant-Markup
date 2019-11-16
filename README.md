@@ -43,3 +43,6 @@ Create HTML program for plain text
 #Print some beginning markup.
 #For each block, print the block enclosed in paragraph tags.
 #Print some ending markup.
+
+#This program can be executed on the sample input as follows: 
+#python simple_markup.py < test_input.txt > test_output.html
